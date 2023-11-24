@@ -1,1 +1,1 @@
-"" 
+sprintboot.server.port = 8080
